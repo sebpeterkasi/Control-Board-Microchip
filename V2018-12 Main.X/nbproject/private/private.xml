@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Insight">
+            <file>file:/D:/Projects/KL%20Stim/trunk/Firmware/Test/Test.X/main.c</file>
+            <file>file:/D:/Projects/KL%20Stim/trunk/Firmware/Test/Test.X/peripherals/timer.h</file>
+            <file>file:/D:/Projects/KL%20Stim/trunk/Firmware/Test/Test.X/peripherals/timer.c</file>
+        </group>
+        <group name="KL">
+            <file>file:/D:/Projects/KL%20Stim/trunk/Firmware/V2015-12%20Main/peripherals/timer/timer.c</file>
+            <file>file:/D:/Projects/KL%20Stim/trunk/Firmware/V2015-12%20Main/main.c</file>
+            <file>file:/D:/Projects/KL%20Stim/trunk/Firmware/V2015-12%20Main/peripherals/adxl345/adxl345.c</file>
+        </group>
+        <group>
+            <file>file:/D:/repback/V2015-12%20Main/peripherals/timer/timer.c</file>
+            <file>file:/D:/repback/V2015-12%20Main/peripherals/led/led.c</file>
+            <file>file:/D:/repback/V2015-12%20Main/peripherals/uart/uart.c</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,27 @@
+build/default/production/_ext/1472/main.o:  \
+../main.c  \
+../hardware.h  \
+ ../config.h  \
+../com.h  \
+../libs/event.h  \
+../libs/../config.h  \
+../com_pc.h  \
+ ../peripherals/adxl345/adxl345.h  \
+../peripherals/adxl345/../../hardware.h  \
+ ../peripherals/i2c/i2c.h  \
+../peripherals/i2c/../../hardware.h  \
+ ../peripherals/led/led.h  \
+../peripherals/led/../../hardware.h  \
+ ../peripherals/ltc2942/ltc2942.h  \
+../peripherals/ltc2942/../../hardware.h  \
+ ../peripherals/pps/pps.h  \
+../peripherals/pps/../../hardware.h  \
+ ../peripherals/spi/spi.h  \
+../peripherals/spi/../../hardware.h  \
+ ../peripherals/timer/timer.h  \
+../peripherals/timer/../../hardware.h  \
+ ../peripherals/uart/uart.h  \
+../peripherals/uart/../../hardware.h  \
+ ../device.h  \
+../libs/condition.h  \
+../libs/event.h 
